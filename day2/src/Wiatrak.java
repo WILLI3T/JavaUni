@@ -20,7 +20,7 @@ public class Wiatrak {
         this.color=color;
     }
     public String informacje(){
-        return "Prędkość: "+this.speed+" Promień: "+this.radius+" Włączony: "+this.on+" Kolor: "+this.color;
+        return "Prędkość: "+this.speed+". Promień: "+this.radius+". Włączony: "+this.on+". Kolor: "+this.color;
     }
     public static void main(String[] args){
         Wiatrak wiatrak1 = new Wiatrak();
