@@ -30,8 +30,13 @@ public class Ułamek {
         return new Ułamek(newlicznik,newMianownik);
     }
     public void print(){
-        System.out.println(this.licznik +"/"+ this.mianownik);
+        if(mianownik==1){
+            System.out.println(this.licznik);
+        }else {
+            System.out.println(this.licznik + "/" + this.mianownik);
+        }
     }
+
     private void uprosc(){
         int nwd=(nwd(Math.abs(this.licznik),Math.abs(this.mianownik)));
         this.licznik = this.licznik/nwd;

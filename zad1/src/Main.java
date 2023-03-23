@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        Ułamek ułamek1 = new Ułamek(1,3);
-        Ułamek ułamek2 = new Ułamek(1,2);
+        Ułamek ułamek1 = new Ułamek(4,3);
+        Ułamek ułamek2 = new Ułamek(1,1);
         Ułamek ułamek3 = ułamek1.multiply(ułamek2);
         ułamek3.print();
         ułamek2.print();
