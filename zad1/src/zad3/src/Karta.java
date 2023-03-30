@@ -1,3 +1,5 @@
+package zad3.src;
+
 public class Karta {
     private Kolor kolor;
     private Figura figura;

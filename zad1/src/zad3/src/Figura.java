@@ -1,3 +1,5 @@
+package zad3.src;
+
 public enum Figura {
     DWÓJKA,
     TRÓJKA,

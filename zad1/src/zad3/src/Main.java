@@ -1,3 +1,5 @@
+package zad3.src;
+
 public class Main {
     public static void main(String[] args) {
         for (Kolor k : Kolor.values()) {
