@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="349bd22a-d069-4de7-8239-23bcd58d0bcc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../zad5/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad5/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad5/zad5.iml" afterDir="false" />
-    </list>
+    <list default="true" id="349bd22a-d069-4de7-8239-23bcd58d0bcc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/JavaUni/Lab5",
+    "last_opened_file_path": "E:/JavaUni/Lab5/zad3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680718358303</updated>
       <workItem from="1680718359578" duration="71000" />
-      <workItem from="1680718728675" duration="1327000" />
+      <workItem from="1680718728675" duration="1393000" />
     </task>
     <servers />
   </component>
