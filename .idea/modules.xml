@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaUni.iml" filepath="$PROJECT_DIR$/.idea/JavaUni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2/day2.iml" filepath="$PROJECT_DIR$/day2/day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kolos/kolos.iml" filepath="$PROJECT_DIR$/kolos/kolos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1/src/zad 5/zad 5.iml" filepath="$PROJECT_DIR$/zad1/src/zad 5/zad 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1/src/zad1.iml" filepath="$PROJECT_DIR$/zad1/src/zad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1/zad11.iml" filepath="$PROJECT_DIR$/zad1/zad11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/zad1/zad12.iml" filepath="$PROJECT_DIR$/Lab5/zad1/zad12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1/src/zad2/zad2.iml" filepath="$PROJECT_DIR$/zad1/src/zad2/zad2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/zad2/zad21.iml" filepath="$PROJECT_DIR$/Lab5/zad2/zad21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad2/zad22.iml" filepath="$PROJECT_DIR$/zad2/zad22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab5/zad3/zad3.iml" filepath="$PROJECT_DIR$/Lab5/zad3/zad3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zad1/src/zad4/zad4.iml" filepath="$PROJECT_DIR$/zad1/src/zad4/zad4.iml" />
+    </modules>
+  </component>
+</project>

@@ -5,16 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e46d9b87-9d8e-4064-9f06-96de67d0afdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/zad2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/JavaUni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad1/zad12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2/zad21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/src/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/src/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/src/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/src/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4/zad4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad1/src/zad1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad1/zad11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad2/zad22.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zad3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/zad3/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/JavaUni/Lab5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680158117535</updated>
       <workItem from="1680158118681" duration="1690000" />
+      <workItem from="1680718081580" duration="39000" />
     </task>
     <servers />
   </component>
