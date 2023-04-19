@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fc8ae5-0bd9-4686-ae55-3de918718bb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Playstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/PlaystationGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Xbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/XboxGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/zad2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="035dab5c-ddd8-4f7a-8b28-5db56e073120" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XboxGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad1/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/untitled/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +30,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2OeiUrZt61GgxcW9gIjnvOn6RZB" />
+  <component name="ProjectId" id="2OekwMbwtgAcno6SQJpHC73QdwC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +44,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,12 +56,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="16fc8ae5-0bd9-4686-ae55-3de918718bb2" name="Changes" comment="" />
-      <created>1681927470094</created>
+      <changelist id="035dab5c-ddd8-4f7a-8b28-5db56e073120" name="Changes" comment="" />
+      <created>1681928674456</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681927470094</updated>
-      <workItem from="1681927471496" duration="1786000" />
+      <updated>1681928674456</updated>
+      <workItem from="1681928675591" duration="1242000" />
     </task>
     <servers />
   </component>
