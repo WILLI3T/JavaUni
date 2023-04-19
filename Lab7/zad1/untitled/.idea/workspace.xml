@@ -5,19 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16fc8ae5-0bd9-4686-ae55-3de918718bb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Playstation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/PlaystationGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/Xbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/src/XboxGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../zad2/zad2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SymulatorFarby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad3/zad3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad4/src/SymulatorFarby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../zad4/zad4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zad2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681927470094</updated>
-      <workItem from="1681927471496" duration="1786000" />
+      <workItem from="1681927471496" duration="2123000" />
     </task>
     <servers />
   </component>

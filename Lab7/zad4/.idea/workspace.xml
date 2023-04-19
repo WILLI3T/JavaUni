@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="035dab5c-ddd8-4f7a-8b28-5db56e073120" name="Changes" comment="">
+    <list default="true" id="83a6b834-c9d3-4b2e-8833-e61a78a8cd37" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../zad1/untitled/src/SymulatorFarby.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/misc.xml" afterDir="false" />
@@ -12,16 +9,16 @@
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/zad3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/src/SymulatorFarby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/zad4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SymulatorFarby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zad1/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/untitled/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zad1/untitled/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/untitled/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2OekwMbwtgAcno6SQJpHC73QdwC" />
+  <component name="ProjectId" id="2OepvWnkqFAX7SbXtCUqkw6Zr2Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +47,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,12 +58,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="035dab5c-ddd8-4f7a-8b28-5db56e073120" name="Changes" comment="" />
-      <created>1681928674456</created>
+      <changelist id="83a6b834-c9d3-4b2e-8833-e61a78a8cd37" name="Changes" comment="" />
+      <created>1681931134503</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681928674456</updated>
-      <workItem from="1681928675591" duration="2200000" />
+      <updated>1681931134503</updated>
+      <workItem from="1681931135804" duration="520000" />
     </task>
     <servers />
   </component>

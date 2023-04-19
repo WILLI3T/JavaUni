@@ -9,5 +9,6 @@ public class Main {
             System.out.println("Area: "+shape.getArea());
             System.out.println("Perimiter: "+shape.getPerimeter());
         }
+        System.out.println(SymulatorFarby.obliczZapotrzebowanieNaFarbe(shapes,20));
     }
 }
