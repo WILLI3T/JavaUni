@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035dab5c-ddd8-4f7a-8b28-5db56e073120" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../zad1/untitled/src/SymulatorFarby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/zad3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/src/SymulatorFarby.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad4/zad4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zad1/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/untitled/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../zad1/untitled/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1/untitled/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
