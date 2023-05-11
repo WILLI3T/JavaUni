@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38254046-aef3-4eb0-a469-1e8458a51482" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/zad3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad4/zad4.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683789187497</updated>
-      <workItem from="1683789188596" duration="2109000" />
+      <workItem from="1683789188596" duration="2195000" />
     </task>
     <servers />
   </component>
