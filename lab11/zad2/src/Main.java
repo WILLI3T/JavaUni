@@ -9,11 +9,11 @@ public class Main {
 
     }
     public static void play(){
-        Set<Integer> losowe = randomNumber();
-        Set<Integer> wybrane = chooseNumber();
-        System.out.println("Twoje numery: "+wybrane);
-        System.out.println("Wylosowane numery: "+losowe);
-        int numberOfHits = numberOfHits(losowe,wybrane);
+        Set<Integer> random = randomNumber();
+        Set<Integer> chosen = chooseNumber();
+        System.out.println("Twoje numery: "+chosen);
+        System.out.println("Wylosowane numery: "+random);
+        int numberOfHits = numberOfHits(random,chosen);
         System.out.println("Liczba trafień: "+numberOfHits);
     }
     private static Set<Integer> chooseNumber() {
