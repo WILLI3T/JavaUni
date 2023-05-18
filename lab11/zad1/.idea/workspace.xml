@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38254046-aef3-4eb0-a469-1e8458a51482" name="Changes" comment="" />
+    <list default="true" id="ba181ec7-286b-4919-817a-9748afef2e84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Capybar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab10/zad2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab10/zad2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -16,7 +30,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Pda0IcUbiY6zgJeZGuq5pEJ7iH" />
+  <component name="ProjectId" id="2PxH7RJVfjuQi6FRjgtg2g6vtxL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +39,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -34,20 +47,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\s27073\Documents\GitHub\JavaUni\lab10\zad2" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38254046-aef3-4eb0-a469-1e8458a51482" name="Changes" comment="" />
-      <created>1683789187497</created>
+      <changelist id="ba181ec7-286b-4919-817a-9748afef2e84" name="Changes" comment="" />
+      <created>1684391644874</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683789187497</updated>
-      <workItem from="1683789188596" duration="2195000" />
+      <updated>1684391644874</updated>
+      <workItem from="1684391646014" duration="1995000" />
     </task>
     <servers />
   </component>
