@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox alignment="CENTER" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1" fx:controller="com.example.zad2.CalculatorController">
+<VBox alignment="CENTER" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.zad2.CalculatorController">
     <GridPane hgap="5" prefHeight="334.0" prefWidth="483.0" vgap="5">
         <TextField fx:id="displayTextField" prefHeight="52.0" prefWidth="348.0" GridPane.columnIndex="0" GridPane.columnSpan="4" GridPane.rowIndex="0" />
 
@@ -35,6 +35,7 @@
          <ColumnConstraints />
          <ColumnConstraints />
          <ColumnConstraints />
+         <ColumnConstraints />
       </columnConstraints>
       <rowConstraints>
          <RowConstraints />
@@ -50,7 +51,7 @@
     </GridPane>
    <BorderPane prefHeight="49.0" prefWidth="483.0">
       <center>
-          <Button onAction="#handleClearButton" mnemonicParsing="false" prefHeight="53.0" prefWidth="526.0" text="Clear" BorderPane.alignment="CENTER" />
+          <Button mnemonicParsing="false" onAction="#handleClearButton" prefHeight="53.0" prefWidth="526.0" text="Clear" BorderPane.alignment="CENTER" />
       </center>
    </BorderPane>
 </VBox>
