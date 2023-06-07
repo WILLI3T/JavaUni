@@ -5,11 +5,13 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.util.Objects;
+
 public class MainApp extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("zad2.fxml"));
+        Parent root = FXMLLoader.load(Objects.requireNonNull(getClass().getResource("zad2.fxml")));
         primaryStage.setTitle("Kalkulator");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();

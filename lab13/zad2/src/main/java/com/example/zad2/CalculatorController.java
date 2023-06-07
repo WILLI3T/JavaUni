@@ -15,9 +15,14 @@ public class CalculatorController {
     private double number2 = 0;
     private String operator = "";
     private boolean startNewInput = true;
+    @FXML
+    public void initialize(){
+        displayTextField.setEditable(false);
+    }
 
     @FXML
     private void handleNumberButton(ActionEvent event) {
+
         Button button = (Button) event.getSource();
         String digit = button.getText();
 
